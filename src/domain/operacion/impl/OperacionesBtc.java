@@ -1,4 +1,8 @@
-public class OperacionesBtc extends  Operacion{
+package domain.operacion.impl;
+
+import domain.operacion.Operacion;
+
+public class OperacionesBtc extends Operacion {
 
     @Override
     public void ejecutar(){

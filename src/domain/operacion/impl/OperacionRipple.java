@@ -1,4 +1,8 @@
-public class OperacionRipple extends Operacion{
+package domain.operacion.impl;
+
+import domain.operacion.Operacion;
+
+public class OperacionRipple extends Operacion {
 
     @Override
     public void ejecutar() {

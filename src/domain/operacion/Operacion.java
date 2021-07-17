@@ -1,3 +1,5 @@
+package domain.operacion;
+
 public abstract class Operacion {
 
     public Integer cantidad;

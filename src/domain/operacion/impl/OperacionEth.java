@@ -1,4 +1,8 @@
-public class OperacionEth extends Operacion{
+package domain.operacion.impl;
+
+import domain.operacion.Operacion;
+
+public class OperacionEth extends Operacion {
 
 
     @Override

@@ -1,3 +1,7 @@
+package domain.cuentaMercado;
+
+import domain.operacion.Operacion;
+
 public abstract class CuentaMercado {
 
     public String nombre;
